@@ -1,0 +1,2 @@
+persist.sys.pihooks.disable.gms_key_attestation_block=true
+persist.sys.pihooks.disable.gms_props=true
