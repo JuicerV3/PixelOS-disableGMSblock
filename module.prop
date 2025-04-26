@@ -1,6 +1,6 @@
 id=pos_GMSunlock
 name=PixelOS disable GMS block
-version=v1.0
-versionCode=10
+version=v1.1
+versionCode=11
 author=JuicerV3
-description=build.prop disable built-in GMS props and Key attestation block [AP4A.250205.002.C1]
+description=build.prop disable built-in GMS props and Key attestation block [BP1A.250405.007.D1]
